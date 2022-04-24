@@ -120,3 +120,4 @@ valid.origin-apple.com.akadns.net 223.5.5.5,119.29.29.29
 www.apple.com 223.5.5.5,119.29.29.29
 www.apple.com.edgekey.net 223.5.5.5,119.29.29.29
 www.apple.com.edgekey.net.globalredir.akadns.net 223.5.5.5,119.29.29.29
+xp.apple.com 223.5.5.5,119.29.29.29

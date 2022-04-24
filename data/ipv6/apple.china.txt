@@ -120,3 +120,4 @@ valid.origin-apple.com.akadns.net [2400:3200::1]:53,[2402:4e00::]:53
 www.apple.com [2400:3200::1]:53,[2402:4e00::]:53
 www.apple.com.edgekey.net [2400:3200::1]:53,[2402:4e00::]:53
 www.apple.com.edgekey.net.globalredir.akadns.net [2400:3200::1]:53,[2402:4e00::]:53
+xp.apple.com [2400:3200::1]:53,[2402:4e00::]:53
