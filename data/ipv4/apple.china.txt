@@ -117,6 +117,7 @@ updates-http.cdn-apple.com.akadns.net 223.5.5.5,119.29.29.29
 updates.cdn-apple.com 223.5.5.5,119.29.29.29
 valid.apple.com 223.5.5.5,119.29.29.29
 valid.origin-apple.com.akadns.net 223.5.5.5,119.29.29.29
+weather-data.apple.com 223.5.5.5,119.29.29.29
 www.apple.com 223.5.5.5,119.29.29.29
 www.apple.com.edgekey.net 223.5.5.5,119.29.29.29
 www.apple.com.edgekey.net.globalredir.akadns.net 223.5.5.5,119.29.29.29
