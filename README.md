@@ -1,6 +1,6 @@
 # China DNS Forwarding Rules for dnscrypt-proxy
 
-> 数据来源：https://gitee.com/felixonmars/dnsmasq-china-list
+> 数据来源：https://github.com/felixonmars/dnsmasq-china-list
 
 用于 [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy/) ，具体使用方法详见 [dnscrypt-proxy > Wiki > Forwarding](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Forwarding)
 
